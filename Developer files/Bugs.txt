@@ -1,0 +1,7 @@
+The Nav button takes entire width
+
+Tshirt picture not loading
+
+Drawer buttons stop working after filter button is clicked
+
+Nav button does not open nav screen
